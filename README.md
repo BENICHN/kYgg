@@ -1,0 +1,2 @@
+#kYgg
+Scrapper for yggtorrent
